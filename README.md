@@ -1,1 +1,1 @@
-# pointcloud_processing_based_grasp_systhesis
+# Point cloud processing based grasp synthesis
