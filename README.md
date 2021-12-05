@@ -14,7 +14,7 @@ Refer my [Franka Panda](https://github.com/cdbharath/franka_panda "Franka Panda"
 <img width="460" height="300" src="./media/pc.png">
 </p>
 
-3. Result of RANSAC over the point cloud:
+3. Result of RANSAC over the point cloud to filter the major plane:
 <p align="left">
 <img width="460" height="300" src="./media/ransac.png">
 </p>
