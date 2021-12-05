@@ -26,7 +26,7 @@ Refer my [Franka Panda](https://github.com/cdbharath/franka_panda "Franka Panda"
 
 5. Point cloud of the pudding box object after passthrough filter:
 <p align="left">
-<img width="460" height="300" src="./media/pc_final.png">
+<img width="460" height="300" src="./media/pc_final_.png">
 </p>
 
 6. Franka Panda grasping the object using the resulting point cloud:
