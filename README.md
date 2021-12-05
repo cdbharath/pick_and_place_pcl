@@ -5,12 +5,12 @@ Refer my [Franka Panda](https://github.com/cdbharath/franka_panda "Franka Panda"
 # Point cloud processing based grasp synthesis
 
 Initial setup:
-<p align="center">
+<p align="left">
 <img width="460" height="300" src="./media/pc_setup.png">
 </p>
 
 Point cloud extracted from eye in hand Kinect sensor:
-<p align="center">
+<p align="left">
 <img width="460" height="300" src="./media/pc.png">
 </p>
 
