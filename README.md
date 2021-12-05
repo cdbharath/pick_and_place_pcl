@@ -4,13 +4,15 @@ Refer my [Franka Panda](https://github.com/cdbharath/franka_panda "Franka Panda"
 
 # Point cloud processing based grasp synthesis
 
-### Initial setup:
+Initial setup:
 <p align="center">
 <img width="460" height="300" src="./media/pc_setup.png">
 </p>
 
-### Point cloud extracted from eye in hand Kinect sensor:
-![alt text](./media/pc.png "Pick and Place")
+Point cloud extracted from eye in hand Kinect sensor:
+<p align="center">
+<img width="460" height="300" src="./media/pc.png">
+</p>
 
 
 # Visual servoing of a RR robot
