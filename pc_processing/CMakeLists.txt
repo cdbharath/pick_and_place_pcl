@@ -1,0 +1,28 @@
+cmake_minimum_required(VERSION 2.6 FATAL_ERROR)
+project(MY_GRAND_PROJECT)
+# find_package(PCL 1.3 REQUIRED COMPONENTS common io visualization filters)
+find_package(PCL 1.3 REQUIRED)
+
+include_directories(${PCL_INCLUDE_DIRS})
+link_directories(${PCL_LIBRARY_DIRS})
+add_definitions(${PCL_DEFINITIONS})
+
+add_executable(read_pcd read_pcd.cpp)
+add_executable(visualize_pcd visualize_pcd.cpp)
+add_executable(random_sample_consensus random_sample_consensus.cpp)
+add_executable(planar_segmentation planar_segmentation.cpp)
+# add_executable(find_table find_table.cpp)
+add_executable(extract_indices extract_indices.cpp)
+add_executable(passthrough passthrough.cpp)
+add_executable(merge merge.cpp)
+add_executable(find_normals find_normals.cpp)
+
+
+target_link_libraries(read_pcd ${PCL_LIBRARIES})
+target_link_libraries(visualize_pcd ${PCL_LIBRARIES})
+target_link_libraries(random_sample_consensus ${PCL_LIBRARIES})
+target_link_libraries(planar_segmentation ${PCL_LIBRARIES})
+target_link_libraries(extract_indices ${PCL_LIBRARIES})
+target_link_libraries(passthrough ${PCL_LIBRARIES})
+target_link_libraries(merge ${PCL_LIBRARIES})
+target_link_libraries(find_normals ${PCL_LIBRARIES})
