@@ -6,7 +6,7 @@ Refer my [Franka Panda](https://github.com/cdbharath/franka_panda "Franka Panda"
 
 1. Initial setup:
 <p align="left">
-<img width="460" height="460" src="./media/pc_setup.png">
+<img width="600" height="400" src="./media/pc_setup.png">
 </p>
 
 2. Point cloud extracted from eye in hand Kinect sensor:
@@ -31,7 +31,7 @@ Refer my [Franka Panda](https://github.com/cdbharath/franka_panda "Franka Panda"
 
 6. Franka Panda grasping the object using the resulting point cloud:
 <p align="left">
-<img width="460" height="460" src="./media/grasping.png">
+<img width="600" height="400" src="./media/grasping.png">
 </p>
 
 # Visual servoing of a RR robot
@@ -53,5 +53,5 @@ Refer my [Franka Panda](https://github.com/cdbharath/franka_panda "Franka Panda"
 
 4. Response of the controller:
 <p align="left">
-<img width="460" height="460" src="./media/vs_result.png">
+<img width="600" height="400" src="./media/vs_result.png">
 </p>
