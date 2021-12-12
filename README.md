@@ -33,7 +33,7 @@ Refer my [Franka Panda](https://github.com/cdbharath/franka_panda "Franka Panda"
 <p align="left">
 <img width="600" height="400" src="./media/grasping.png">
 </p>
-
+<!--
 # Visual servoing of a RR robot
 
 1. Initial setup:
@@ -55,3 +55,4 @@ Refer my [Franka Panda](https://github.com/cdbharath/franka_panda "Franka Panda"
 <p align="left">
 <img width="600" height="400" src="./media/vs_result.png">
 </p>
+-->
