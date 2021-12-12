@@ -58,5 +58,5 @@ Refer my [Franka Panda](https://github.com/cdbharath/franka_panda "Franka Panda"
 -->
 
 Reference:
-1. (YCB Dataset)[https://www.ycbbenchmarks.com/ YCB Dataset]
-2. (RANSAC)[https://pcl.readthedocs.io/projects/tutorials/en/master/random_sample_consensus.html#random-sample-consensus RANSAC]
+1. [YCB Dataset](https://www.ycbbenchmarks.com/ "YCB Dataset")
+2. [RANSAC](https://pcl.readthedocs.io/projects/tutorials/en/master/random_sample_consensus.html#random-sample-consensus "RANSAC")
