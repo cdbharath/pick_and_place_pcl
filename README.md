@@ -2,7 +2,7 @@ Vision based Robotic Manipulation - WPI course project
 
 Refer my [Franka Panda](https://github.com/cdbharath/franka_panda "Franka Panda") repository for the manipulation pipeline used in this project. 
 
-# Point cloud processing based grasp synthesis
+## Point cloud processing based grasp synthesis
 
 1. Initial setup:
 <p align="left">
@@ -57,6 +57,6 @@ Refer my [Franka Panda](https://github.com/cdbharath/franka_panda "Franka Panda"
 </p>
 -->
 
-Reference:
+## Reference:
 1. [YCB Dataset](https://www.ycbbenchmarks.com/ "YCB Dataset")
 2. [RANSAC](https://pcl.readthedocs.io/projects/tutorials/en/master/random_sample_consensus.html#random-sample-consensus "RANSAC")
